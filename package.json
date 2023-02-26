@@ -1,0 +1,25 @@
+{
+  "name": "@tmplates/react",
+  "version": "1.1.0",
+  "keywords": [
+    "genrate",
+    "template",
+    "raect",
+    "scaffold"
+  ],
+  "description": "React project template config file",
+  "author": "MrHuangJser",
+  "license": "MIT",
+  "template": {
+    "main": "index.js",
+    "preprepare": "preprepare.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmplates/react.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tmplates/react/issues"
+  },
+  "homepage": "https://github.com/tmplates/react#readme"
+}
